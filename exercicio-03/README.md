@@ -1,4 +1,4 @@
-### Exercício 02: Expondo portas do container
+### Exercício 03: Expondo portas do container
 
 Rodar o docker mapeando a porta 9900 para 80
 >docker run --name apache -d -p 9900:80 httpd:latest
